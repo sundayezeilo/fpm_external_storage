@@ -1,0 +1,4 @@
+stmutils.c:12:15:dtostrf.constprop	24	static
+stmutils.c:65:8:ftostr	0	static
+stmutils.c:69:8:ftostrp	0	static
+stmutils.c:73:5:_write	8	static

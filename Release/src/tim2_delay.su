@@ -1,0 +1,3 @@
+tim2_delay.c:28:6:TIM2_IRQHandler	16	static
+tim2_delay.c:40:6:delay_us	16	static
+tim2_delay.c:58:6:delay_ms	16	static

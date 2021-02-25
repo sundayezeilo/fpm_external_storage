@@ -1,0 +1,12 @@
+uart_drv.c:182:13:generic_usart_handler	8	static
+uart_drv.c:7:6:uart_init	48	static
+uart_drv.c:96:10:uart_write_byte	16	static
+uart_drv.c:87:10:uart_write	24	static
+uart_drv.c:125:9:uart_read_byte	0	static
+uart_drv.c:138:9:uart_timed_read_byte	16	static
+uart_drv.c:149:10:uart_read	24	static
+uart_drv.c:160:10:uart_avail	0	static
+uart_drv.c:164:6:uart_flush	8	static
+uart_drv.c:178:6:uart_set_timeout	0	static
+uart_drv.c:222:6:USART1_IRQHandler	0	static
+uart_drv.c:227:6:USART3_IRQHandler	0	static
